@@ -1,5 +1,7 @@
 # CS3560 - Example Project
 
+MIHAJLO CHONEV mc291218
+
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
 This is a simple project that contain some of the tools used in the class. For example,
